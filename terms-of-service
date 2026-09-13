@@ -1,0 +1,23 @@
+Terms of Service for rclone
+Last Updated: 13-08-2026
+
+1. Acceptance of Terms
+By accessing or using [Your App Name] (the "Application"), you agree to be bound by these Terms of Service.
+
+2. Purpose and Scope
+The Application is a personal utility built using rclone. It is designed solely for the personal use of the developer to interface with their own Google Drive account. The Application is not intended for, nor is it offered to, the general public for commercial, enterprise, or external use.
+
+3. Access and Security
+Access to the Application is restricted to the developer. No other users are authorized to authenticate or use the Application. The user is responsible for maintaining the security of their own credentials and local environment.
+
+4. Data Privacy
+The Application operates strictly between the user's local system and the Google Drive API. It does not independently collect, store, share, or transmit personal data to any external third-party servers. All data access and storage are governed by the user's own Google account permissions.
+
+5. Limitation of Liability
+The Application is provided on an "as is" and "as available" basis without any warranties, express or implied. The developer assumes no responsibility or liability for any data loss, service interruptions, account suspensions, or damages arising from the use of this Application.
+
+6. Termination
+The developer reserves the right to modify, suspend, or terminate the Application and its access to the Google API at any time, for any reason, without notice.
+
+Contact
+For any questions regarding these terms, please contact megasky97@gmail.com.
