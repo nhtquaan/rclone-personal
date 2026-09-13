@@ -1,0 +1,33 @@
+Privacy Policy for Personal Rclone Application
+
+Introduction
+This privacy policy applies to the custom rclone application created strictly for personal use by the developer to interface with Google Drive. This application is not distributed, marketed, or available to the general public.
+
+Information Collection and Use
+
+The application does not collect, track, or transmit any personal data to external servers, developers, or third parties.
+
+All data accessed or transferred via the application remains strictly on the user's local device or is routed directly between the local device and the Google Drive service.
+
+Google API Services Usage
+
+The application requests access to Google APIs exclusively to allow the user to manage their own Google Drive files (such as uploading, downloading, syncing, and deleting) via the local rclone command-line tool.
+
+The application's use and transfer to any other app of information received from Google APIs will adhere to the Google API Services User Data Policy, including the Limited Use requirements.
+
+Data Sharing and Disclosure
+
+Absolutely no data is shared with, transferred to, or sold to any third parties.
+
+The application operates locally and is restricted to the single user who created the OAuth credentials. It does not have the architecture or capability to expose user data to outside entities.
+
+Data Storage and Security
+
+Authentication tokens (OAuth access and refresh tokens) are stored locally on the user's device within the encrypted or standard rclone configuration file.
+
+No data is stored on any intermediary servers.
+
+Securing the local device and the rclone configuration file containing the access tokens is the sole responsibility of the user.
+
+Contact Information
+For any questions regarding this privacy policy or the application's data practices, please contact the developer at: megasky97@gmail.com
